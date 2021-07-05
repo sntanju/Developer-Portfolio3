@@ -1,0 +1,45 @@
+.color1{
+    color: darkgreen;
+}
+h1{
+    font-size: 50px;
+}
+body{
+    margin:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.sec1{
+    display: flex;
+    margin-bottom: 120px;
+  
+  
+}
+.half-width{
+    width: 50%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(cyan,yellowgreen);
+    border-radius: 5px;
+    padding: 10px 30px;
+}
+.top-border{
+    background-image: url(images2/top-banner.png);
+    background-repeat: no-repeat;
+}
+.top-border2{
+    background-image: url(images2/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.padding{
+   padding-left: 35px;
+
+}
+.padding2{
+   padding-right: 150px;
+}
+footer p{
+    text-align: center;
+}
